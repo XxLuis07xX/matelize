@@ -1,0 +1,40 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+img {
+    max-width: 80%;
+    border-radius: 50%;
+}
+a {
+    color: #2196F3;
+}
+
+a:hover {
+    color: #000000;
+}
+/* Estiliza los enlaces */
+a {
+    color: #2196F3;
+}
+
+/* Cambia el color del texto de los enlaces al pasar el mouse */
+a:hover {
+    color: #111111;
+}
